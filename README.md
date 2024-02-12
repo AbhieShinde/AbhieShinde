@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Abhishek Shinde, a full-stack software developer based out of Phaltan, MH India.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=vue&hide_border=true&border_radius=14&card_width=555)](https://git.io/streak-stats)
 
 <!--
 **AbhieShinde/AbhieShinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
