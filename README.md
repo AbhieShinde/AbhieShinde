@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhishek Shinde! 👋
-I'm a passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=github-dark&hide_border=true&border_radius=14&card_width=555)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=vue&hide_border=true&border_radius=14&card_width=555)](https://git.io/streak-stats)
+I'm a passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
 
 🚀 **Skills**: PHP, JavaScript, Node.js, Next.js, HTML5, CSS3, MongoDB, SQL, Git, AWS
 
