@@ -1,5 +1,5 @@
 ### Hi there, I'm Abhishek Shinde! 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=github-dark&hide_border=true&border_radius=14&card_width=555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=github-dark&hide_border=true&border_radius=14&card_width=555)](https://etern.tech)
 
 I'm a passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
 
