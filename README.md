@@ -3,7 +3,7 @@
 
 I'm a passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
 
-🚀 **Skills**: PHP, JavaScript, Node.js, Next.js, HTML5, CSS3, MongoDB, SQL, Git, AWS
+🚀 **Skills**: PHP, PostgreSQL, JavaScript, Node.js, Next.js, CSS, MongoDB, Git, AWS
 
 🎓 **Education**: Bachelor's Degree in Computer Science Engineering from Pune University, India.
 
