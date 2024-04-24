@@ -1,7 +1,7 @@
-### Hi there, I'm Abhishek Shinde! 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=github-dark&hide_border=true&border_radius=14&card_width=555)](https://etern.tech)
+### Hi there, I'm Abhi 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=github-dark&hide_border=true&border_radius=14&card_width=555)](https://www.linkedin.com/in/abhieshinde/)
 
-I'm a passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
+A passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
 
 🚀 **Skills**: PHP, PostgreSQL, JavaScript, Node.js, Next.js, CSS, MongoDB, Git, AWS
 
@@ -13,7 +13,7 @@ I'm a passionate full-stack software developer based out of Phaltan, Maharashtra
 
 📫 **Reach me**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhieshinde/) or [Twitter](https://twitter.com/abhieshinde)
 
-👨‍💻 **Portfolio**: Check out some of my work on [GitHub](https://github.com/etern-tech)
+👨‍💻 **Portfolio**: Adding soon.
 
 I'm always open to collaborations and new opportunities, so don't hesitate to reach out!
 
