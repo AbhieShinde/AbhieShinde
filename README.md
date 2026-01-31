@@ -1,5 +1,4 @@
 ### Hi there, I'm Abhi 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhieshinde&theme=github-dark&hide_border=true&border_radius=14&card_width=555)](https://www.linkedin.com/in/abhieshinde/)
 
 A passionate full-stack software developer based out of Phaltan, Maharashtra, India. With a keen interest in building robust and scalable web applications, I thrive on turning ideas into reality through code.
 
